@@ -1,3 +1,3 @@
-= OocssRails
+= OoCssRails
 
-This project rocks and uses MIT-LICENSE.
+A port of stubbornella/oocss to rails asset pipeline
